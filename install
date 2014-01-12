@@ -1,9 +1,0 @@
-Building Battlecoin
-
-See doc/readme-qt.rst for instructions on building Battlecoin QT,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of Battlecoin.
-
-See doc/build-*.txt for instructions on building Battlecoind,
-the intended-for-services, no-graphical-interface, reference
-implementation of Battlecoin.
